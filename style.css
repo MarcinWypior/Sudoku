@@ -1,0 +1,68 @@
+.input{
+    width: 100%;
+    height: 100%;
+    font-size: 6.4vh;
+    text-align: center;
+}
+
+.cell{
+    width: 10%;
+    height: 10%;
+}
+
+table{
+    width: 80vh;
+    height: 80vh;
+    margin: auto;
+}
+
+.C1{
+    border-left-style: solid;
+}
+
+.C3{
+    border-right-style: solid;
+}
+
+.C4{
+    border-left-style: solid;
+}
+
+.C6{
+    border-right-style: solid;
+}
+
+.C7{
+    border-left-style: solid;
+}
+
+
+.C9{
+    border-right-style: solid;
+}
+
+.R1{
+    border-top-style: solid;
+}
+
+.R3{
+    border-bottom-style: solid;
+}
+
+.R4{
+    border-top-style: solid;
+}
+
+.R6{
+    border-bottom-style: solid;
+}
+
+.R7{
+    border-top-style: solid;
+}
+
+.R9{
+    border-bottom-style: solid;
+}
+
+
